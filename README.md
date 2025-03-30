@@ -16,10 +16,3 @@ A simple and user-friendly Notes App that allows users to write, save, and expor
 - **JavaScript**: For functionality and interactivity
 - **Markdown**: For formatting notes (using [marked.js](https://github.com/markedjs/marked))
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/notes-app.git
